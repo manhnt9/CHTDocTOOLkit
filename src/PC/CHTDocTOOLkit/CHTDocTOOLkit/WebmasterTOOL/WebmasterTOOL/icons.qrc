@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Create.png</file>
+        <file>Down.png</file>
+        <file>Open.png</file>
+        <file>Up.png</file>
+        <file>Reset.png</file>
+        <file>Remove.png</file>
+        <file>Upload.png</file>
+    </qresource>
+</RCC>
