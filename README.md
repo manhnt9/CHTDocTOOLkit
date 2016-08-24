@@ -7,7 +7,7 @@ Icons designed by Nhat Le Thanh
 
 A suit of tools providing a client-server environment for fast browsing documents (PDF Files) on a host.
 
-[Article](http://daihoc.fpt.edu.vn/dh-fpt-trao-hoc-bong-tri-gia-260-trieu-dong/)
+[Article](http://chungta.vn/tin-tuc/nguoi-fpt/dh-fpt-trao-hoc-bong-tri-gia-260-trieu-dong-30626.html)
 
 #Features
 * Vietnamese Interface Only
