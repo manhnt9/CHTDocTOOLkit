@@ -23,7 +23,7 @@ A suit of tools providing a client-server environment for fast browsing document
 * Language: C++
 * Framework: Qt5
 * Server's prerequisite: ImageMagick
-* License: [MIT License] (https://github.com/zer0-x/CHTDocTOOLkit/blob/master/LICENSE)
+* License: [MIT License](https://github.com/manhnt9/CHTDocTOOLkit/blob/master/LICENSE)
 
 # Development Status
 This was our project when we were at secondary school.
