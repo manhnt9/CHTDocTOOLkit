@@ -7,7 +7,10 @@ Icons designed by Nhat Le Thanh
 
 A suit of tools providing a client-server environment for fast browsing documents (PDF Files) on a host.
 
-[Article](http://chungta.vn/tin-tuc/nguoi-fpt/dh-fpt-trao-hoc-bong-tri-gia-260-trieu-dong-30626.html)
+[Article 1](http://chungta.vn/tin-tuc/nguoi-fpt/dh-fpt-trao-hoc-bong-tri-gia-260-trieu-dong-30626.html)
+
+[Article 2](https://dantri.com.vn/giao-duc-khuyen-hoc/cau-hoc-tro-chuyen-ly-say-me-sang-tao-phan-mem-tin-hoc-1395416178.htm)
+
 
 # Features
 * Vietnamese Interface Only
