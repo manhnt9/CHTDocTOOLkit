@@ -29,7 +29,7 @@ A suit of tools providing a client-server environment for fast browsing document
 * License: [MIT License](https://github.com/manhnt9/CHTDocTOOLkit/blob/master/LICENSE)
 
 # Development Status
-This was our project when we were at secondary school.
+This was our project when we were at high school.
 (Archived project)
 
 # Screenshots
